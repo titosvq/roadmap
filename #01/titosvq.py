@@ -24,15 +24,10 @@ print(division_entera) # Imprime la división entera
 ### Operadores de comparación ###
 
 print(3 == 3)
-
 print(1 != 2)
-
 print(1 > 2)
-
 print(1 < 2)
-
 print(1 >= 2)
-
 print(1 <= 2)
 
 ### Operadores lógicos ###
@@ -41,7 +36,11 @@ print("Ahora veamos otro tipo de operadores")
 
 print(4 == 4 and 4 < 5) 
 print(4 == 4 and 4 > 5) 
+print(4 == 4 or 4 > 5)
+print(4 == 5 or 4 > 5)
+print(not 4 == 5)
+print(not 5 == 5)
 
-print("Introducimos código desde github")
+### Operadores de adición ###
 
-print("Introducimos código desde local")
+
